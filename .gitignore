@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Streamlit specific
+.streamlit/
+*.log
+
+# C/C++/Java compiled binaries
+*.exe
+*.o
+*.class
+*.out
